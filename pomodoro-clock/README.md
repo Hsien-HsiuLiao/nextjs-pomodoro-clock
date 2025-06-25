@@ -1,5 +1,11 @@
 # pomodoro-clock
 
+Start the app:                                      │
+│                                                      │
+│  yarn run dev       
+
+
+
 This is a Next.js app containing:
 
 - Tailwind CSS setup for styling
